@@ -1,0 +1,27 @@
+.container {
+    display: grid;
+    grid-template-columns: 400px 1fr 250px;
+    grid-gap: 0.625rem;
+    grid-template-areas:
+        "header header header"
+        "nav-top nav-top nav-top"
+        "nav-left main aside"
+        "footer footer footer";
+}
+
+.container > * {
+    padding: 1.875rem;
+    font-size: 1.875rem;
+    font-weight: 800;
+    text-align: center;
+    background: #dfeffd;
+    border: 3px solid #457fdc;
+    color: #457fdc;
+}
+
+header,
+nav.topMenu,
+footer {
+    grid-column: 1 / 4;
+}
+

@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0d4b9125-536f-497b-8ab9-072d89f5b6d9" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/AnyLanguageApp.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/krzys.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_tmp/grid-sticky-one-column.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_tmp/grid-sticky-one-column.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_tmp/grid-without-flexbox-1.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_tmp/grid-without-flexbox-1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_tmp/grid-without-flexbox-2.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_tmp/grid-without-flexbox-2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_tmp/grid-without-flexbox-3.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_tmp/grid-without-flexbox-3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_tmp/mozilla-1.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_tmp/mozilla-1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gulpfile.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img/Rocket.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img/crocodile.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img/flamingo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img/giraffe.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img/lion.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/js/alert.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/js/project.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/modules/10-body/body.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/modules/10-body/reset.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/modules/20-template/template.kit" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/modules/20-template/template.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/modules/30-header/header.kit" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/modules/30-header/header.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/modules/40-nav-top/nav-top.kit" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/modules/40-nav-top/nav-top.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/modules/50-nav-left/nav-left.kit" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/modules/50-nav-left/nav-left.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/modules/60-main/main.kit" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/modules/60-main/main.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/modules/70-aside/aside.kit" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/modules/70-aside/aside.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/modules/80-footer/footer.kit" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/modules/80-footer/footer.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/modules/index.kit" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/modules/main.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1hYqA5NmtEXWxeO7tEsDHb5zZCf" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="javascript.nodejs.core.library.configured.version" value="14.10.1" />
+    <property name="javascript.nodejs.core.library.typings.version" value="14.10.1" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../ksiazki/sass-od-podstaw" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.SCSS" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Qsync\_code\everstudybee\AnyLanguageApp\src\modules" />
+      <recent name="D:\Qsync\_code\everstudybee\AnyLanguageApp\src\modules\10-header" />
+      <recent name="D:\Qsync\_code\everstudybee\AnyLanguageApp\src\kit" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Qsync\_code\everstudybee\AnyLanguageApp\_tmp" />
+      <recent name="D:\Qsync\_code\everstudybee\AnyLanguageApp" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="2" Folder0="D:\Qsync\_sync\dictionaries\nb" Folder1="D:\Qsync\_sync\dictionaries\pl" CustomDictionaries="2" CustomDictionary0="D:\Qsync\_sync\dictionaries\nb\index.dic" CustomDictionary1="D:\Qsync\_sync\dictionaries\pl\index.dic" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0d4b9125-536f-497b-8ab9-072d89f5b6d9" name="Default Changelist" comment="" />
+      <created>1600198228761</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600198228761</updated>
+      <workItem from="1600198231441" duration="3363000" />
+      <workItem from="1600269793348" duration="10399000" />
+      <workItem from="1600375123287" duration="2325000" />
+      <workItem from="1601842119811" duration="757000" />
+      <workItem from="1601842895298" duration="29147000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="586" y="203" key="#Inspections" timestamp="1601842986440">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="586" y="203" key="#Inspections/0.0.1920.1050/-1920.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1601842986440" />
+    <state x="414" y="179" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1600284442182">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="414" y="179" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1050/-1920.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1600284442182" />
+    <state x="740" y="266" key="FileChooserDialogImpl" timestamp="1601914437045">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="740" y="266" key="FileChooserDialogImpl/0.0.1920.1050/-1920.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1601914437045" />
+    <state x="461" y="169" key="SettingsEditor" timestamp="1601976390961">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="461" y="169" key="SettingsEditor/0.0.1920.1050/-1920.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1601976390961" />
+    <state x="623" y="227" width="672" height="678" key="search.everywhere.popup" timestamp="1601973498779">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="623" y="227" width="672" height="678" key="search.everywhere.popup/0.0.1920.1050/-1920.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1601973498779" />
+  </component>
+</project>

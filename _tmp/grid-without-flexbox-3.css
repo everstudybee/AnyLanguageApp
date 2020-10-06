@@ -1,0 +1,35 @@
+.container {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 0.625rem;
+}
+.container > * {
+    grid-column: 1 / span 3;
+    font-size: 1.875rem;
+    font-weight: 800;
+    text-align: center;
+    background: #dfeffd;
+    border: 3px solid #457fdc;
+    color: #457fdc;
+}
+header,
+footer {
+    padding: 1.875rem;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: inherit;
+    grid-template-columns: inherit;
+    grid-gap: inherit;
+}
+li {
+    border: tomato 0.1875rem solid;
+    padding: 1.875rem;
+    font-size: 1.875rem;
+    font-weight: 800;
+    text-align: center;
+    color: tomato;
+    background: mistyrose;
+}
