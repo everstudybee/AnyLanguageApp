@@ -22,34 +22,30 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0d4b9125-536f-497b-8ab9-072d89f5b6d9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/_tmp/sticky-top.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_tmp/stisky-top.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/modules/10-shared/_variables.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/modules/60-main-content/_main-content.kit" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/modules/60-main-content/_main-content.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/AnyLanguageApp.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/AnyLanguageApp.iml" afterDir="false" />
+    <list default="true" id="0d4b9125-536f-497b-8ab9-072d89f5b6d9" name="Default Changelist" comment="Before rearrange project structure">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/gulpfile.js" beforeDir="false" afterPath="$PROJECT_DIR$/gulpfile.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/modules/10-body/body.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/modules/10-shared/_global.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/modules/10-body/reset.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/modules/10-shared/_reset.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/modules/20-template/template.kit" beforeDir="false" afterPath="$PROJECT_DIR$/src/modules/20-template/_template.kit" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/modules/20-template/template.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/modules/20-template/_template.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/modules/30-header/header.kit" beforeDir="false" afterPath="$PROJECT_DIR$/src/modules/30-header/_header.kit" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/modules/30-header/header.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/modules/30-header/_header.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/modules/40-nav-top/nav-top.kit" beforeDir="false" afterPath="$PROJECT_DIR$/src/modules/40-nav-top/_nav-top.kit" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/modules/40-nav-top/nav-top.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/modules/40-nav-top/_nav-top.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/modules/50-nav-left/nav-left.kit" beforeDir="false" afterPath="$PROJECT_DIR$/src/modules/50-nav-left/_nav-left.kit" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/modules/50-nav-left/nav-left.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/modules/50-nav-left/_nav-left.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/modules/60-main/main.kit" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/modules/60-main/main.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/modules/70-aside/aside.kit" beforeDir="false" afterPath="$PROJECT_DIR$/src/modules/70-aside/_aside.kit" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/modules/70-aside/aside.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/modules/70-aside/_aside.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/modules/80-footer/footer.kit" beforeDir="false" afterPath="$PROJECT_DIR$/src/modules/80-footer/_footer.kit" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/modules/80-footer/footer.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/modules/80-footer/_footer.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/modules/index.kit" beforeDir="false" afterPath="$PROJECT_DIR$/src/modules/index.kit" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/modules/main.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/modules/main.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/js/alert.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/common.blocks/js/alert.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/js/project.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/common.blocks/js/project.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/modules/10-shared/_global.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/common.blocks/10-template/_global.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/modules/10-shared/_reset.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/common.blocks/10-template/_reset.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/modules/10-shared/_variables.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/common.blocks/10-template/_variables.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/modules/20-template/_template.kit" beforeDir="false" afterPath="$PROJECT_DIR$/src/common.blocks/10-template/_grid.kit" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/modules/20-template/_template.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/common.blocks/10-template/_grid.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/modules/30-header/_header.kit" beforeDir="false" afterPath="$PROJECT_DIR$/src/common.blocks/20-header/_header.kit" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/modules/30-header/_header.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/common.blocks/20-header/_header.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/modules/40-nav-top/_nav-top.kit" beforeDir="false" afterPath="$PROJECT_DIR$/src/common.blocks/30-nav-top/_nav-top.kit" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/modules/40-nav-top/_nav-top.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/common.blocks/30-nav-top/_nav-top.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/modules/50-nav-left/_nav-left.kit" beforeDir="false" afterPath="$PROJECT_DIR$/src/common.blocks/40-nav-left/_nav-left.kit" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/modules/50-nav-left/_nav-left.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/common.blocks/40-nav-left/_nav-left.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/modules/60-main-content/_main-content.kit" beforeDir="false" afterPath="$PROJECT_DIR$/src/common.blocks/50-main-content/_main-content.kit" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/modules/60-main-content/_main-content.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/common.blocks/50-main-content/_main-content.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/modules/70-aside/_aside.kit" beforeDir="false" afterPath="$PROJECT_DIR$/src/common.blocks/60-aside/_aside.kit" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/modules/70-aside/_aside.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/common.blocks/60-aside/_aside.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/modules/80-footer/_footer.kit" beforeDir="false" afterPath="$PROJECT_DIR$/src/common.blocks/70-footer/_footer.kit" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/modules/80-footer/_footer.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/common.blocks/70-footer/_footer.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/modules/index.kit" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.kit" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/modules/main.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/main.scss" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -86,11 +82,11 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Qsync\_code\everstudybee\AnyLanguageApp\src\common.blocks\js" />
       <recent name="D:\Qsync\_code\everstudybee\AnyLanguageApp\src" />
-      <recent name="D:\Qsync\_code\everstudybee\AnyLanguageApp\src\modules\10-shared" />
-      <recent name="D:\Qsync\_code\everstudybee\AnyLanguageApp\src\modules" />
-      <recent name="D:\Qsync\_code\everstudybee\AnyLanguageApp\src\modules\10-header" />
-      <recent name="D:\Qsync\_code\everstudybee\AnyLanguageApp\src\kit" />
+      <recent name="D:\Qsync\_code\everstudybee\AnyLanguageApp\src\common.blocks" />
+      <recent name="D:\Qsync\_code\everstudybee\AnyLanguageApp\src\common.blocks\70-footer" />
+      <recent name="D:\Qsync\_code\everstudybee\AnyLanguageApp\src\common.blocks\60-aside" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\Qsync\_code\everstudybee\AnyLanguageApp\_tmp" />
@@ -111,8 +107,16 @@
       <workItem from="1600269793348" duration="10399000" />
       <workItem from="1600375123287" duration="2325000" />
       <workItem from="1601842119811" duration="757000" />
-      <workItem from="1601842895298" duration="42918000" />
+      <workItem from="1601842895298" duration="44994000" />
     </task>
+    <task id="LOCAL-00001" summary="Before rearrange project structure">
+      <created>1602004216159</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1602004216161</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -132,7 +136,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <option name="LAST_COMMIT_MESSAGE" value="" />
+    <MESSAGE value="Before rearrange project structure" />
+    <option name="LAST_COMMIT_MESSAGE" value="Before rearrange project structure" />
   </component>
   <component name="WindowStateProjectService">
     <state x="586" y="203" key="#Inspections" timestamp="1601842986440">
@@ -151,10 +156,10 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="461" y="169" key="SettingsEditor/0.0.1920.1050/-1920.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1601988600420" />
-    <state x="552" y="257" key="Vcs.Push.Dialog.v2" timestamp="1601978061625">
+    <state x="552" y="257" key="Vcs.Push.Dialog.v2" timestamp="1602004260154">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="552" y="257" key="Vcs.Push.Dialog.v2/0.0.1920.1050/-1920.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1601978061625" />
+    <state x="552" y="257" key="Vcs.Push.Dialog.v2/0.0.1920.1050/-1920.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1602004260154" />
     <state x="623" y="227" width="672" height="678" key="search.everywhere.popup" timestamp="1601973498779">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>

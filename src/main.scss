@@ -1,0 +1,15 @@
+// reset all browsers styles
+@import "common.blocks/10-template/reset";
+
+// styles for pages
+@import "common.blocks/10-template/variables";
+@import "common.blocks/10-template/global";
+@import "common.blocks/10-template/grid";
+@import "common.blocks/20-header/header";
+@import "common.blocks/30-nav-top/nav-top";
+@import "common.blocks/40-nav-left/nav-left";
+@import "common.blocks/50-main-content/main-content";
+@import "common.blocks/60-aside/aside";
+@import "common.blocks/70-footer/footer";
+
+

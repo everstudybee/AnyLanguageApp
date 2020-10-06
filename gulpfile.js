@@ -22,25 +22,25 @@ const notifier = require('gulp-notifier'); // {errorHandler: notifier.error} int
 // All paths object
 const paths = {
     css: {
-        src: './src/modules/main.scss',
-        srcWatch: './src/modules/**/*.scss',
+        src: './src/main.scss',
+        srcWatch: './src/**/*.scss',
         dest: './dist/css',
     },
     html: {
-        src: './src/modules/index.kit',
-        srcWatch: './src/modules/**/*.kit',
+        src: './src/index.kit',
+        srcWatch: './src/**/*.kit',
         dest: './dist',
     },
     js: {
         src: [
-            './src/js/project.js',
-            './src/js/alert.js',
+            './src/common.blocks/js/project.js',
+            './src/common.blocks/js/alert.js',
         ],
         path: 'script.js',
         dest: './dist/js',
     },
     img: {
-        src: './src/img/**/*.{png,jpg,jpeg,svg,gif}',
+        src: './src/**/*.{png,jpg,jpeg,svg,gif}',
         dest: './dist/img',
     },
     server: {
