@@ -23,59 +23,40 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0d4b9125-536f-497b-8ab9-072d89f5b6d9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/AnyLanguageApp.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/krzys.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_tmp/grid-sticky-one-column.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_tmp/grid-sticky-one-column.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_tmp/grid-without-flexbox-1.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_tmp/grid-without-flexbox-1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_tmp/grid-without-flexbox-2.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_tmp/grid-without-flexbox-2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_tmp/grid-without-flexbox-3.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_tmp/grid-without-flexbox-3.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_tmp/mozilla-1.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_tmp/mozilla-1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gulpfile.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/img/Rocket.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/img/crocodile.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/img/flamingo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/img/giraffe.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/img/lion.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/js/alert.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/js/project.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/modules/10-body/body.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/modules/10-body/reset.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/modules/20-template/template.kit" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/modules/20-template/template.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/modules/30-header/header.kit" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/modules/30-header/header.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/modules/40-nav-top/nav-top.kit" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/modules/40-nav-top/nav-top.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/modules/50-nav-left/nav-left.kit" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/modules/50-nav-left/nav-left.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/modules/60-main/main.kit" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/modules/60-main/main.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/modules/70-aside/aside.kit" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/modules/70-aside/aside.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/modules/80-footer/footer.kit" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/modules/80-footer/footer.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/modules/index.kit" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/modules/main.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_tmp/sticky-top.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_tmp/stisky-top.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/modules/10-shared/_variables.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/modules/60-main-content/_main-content.kit" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/modules/60-main-content/_main-content.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/AnyLanguageApp.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/AnyLanguageApp.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gulpfile.js" beforeDir="false" afterPath="$PROJECT_DIR$/gulpfile.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/modules/10-body/body.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/modules/10-shared/_global.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/modules/10-body/reset.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/modules/10-shared/_reset.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/modules/20-template/template.kit" beforeDir="false" afterPath="$PROJECT_DIR$/src/modules/20-template/_template.kit" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/modules/20-template/template.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/modules/20-template/_template.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/modules/30-header/header.kit" beforeDir="false" afterPath="$PROJECT_DIR$/src/modules/30-header/_header.kit" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/modules/30-header/header.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/modules/30-header/_header.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/modules/40-nav-top/nav-top.kit" beforeDir="false" afterPath="$PROJECT_DIR$/src/modules/40-nav-top/_nav-top.kit" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/modules/40-nav-top/nav-top.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/modules/40-nav-top/_nav-top.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/modules/50-nav-left/nav-left.kit" beforeDir="false" afterPath="$PROJECT_DIR$/src/modules/50-nav-left/_nav-left.kit" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/modules/50-nav-left/nav-left.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/modules/50-nav-left/_nav-left.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/modules/60-main/main.kit" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/modules/60-main/main.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/modules/70-aside/aside.kit" beforeDir="false" afterPath="$PROJECT_DIR$/src/modules/70-aside/_aside.kit" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/modules/70-aside/aside.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/modules/70-aside/_aside.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/modules/80-footer/footer.kit" beforeDir="false" afterPath="$PROJECT_DIR$/src/modules/80-footer/_footer.kit" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/modules/80-footer/footer.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/modules/80-footer/_footer.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/modules/index.kit" beforeDir="false" afterPath="$PROJECT_DIR$/src/modules/index.kit" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/modules/main.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/modules/main.scss" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="ChangesViewManager" show_ignored="true" />
   <component name="ComposerSettings">
     <execution />
   </component>
@@ -88,7 +69,6 @@
   </component>
   <component name="ProjectViewState">
     <option name="autoscrollFromSource" value="true" />
-    <option name="autoscrollToSource" value="true" />
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
@@ -99,19 +79,23 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="javascript.nodejs.core.library.configured.version" value="14.10.1" />
     <property name="javascript.nodejs.core.library.typings.version" value="14.10.1" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../ksiazki/sass-od-podstaw" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/_tmp" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.SCSS" />
+    <property name="settings.editor.selected.configurable" value="reference.idesettings.emmet.xml" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Qsync\_code\everstudybee\AnyLanguageApp\src" />
+      <recent name="D:\Qsync\_code\everstudybee\AnyLanguageApp\src\modules\10-shared" />
       <recent name="D:\Qsync\_code\everstudybee\AnyLanguageApp\src\modules" />
       <recent name="D:\Qsync\_code\everstudybee\AnyLanguageApp\src\modules\10-header" />
       <recent name="D:\Qsync\_code\everstudybee\AnyLanguageApp\src\kit" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\Qsync\_code\everstudybee\AnyLanguageApp\_tmp" />
+      <recent name="D:\Qsync\_code\everstudybee\AnyLanguageApp\src\modules" />
+      <recent name="D:\Qsync\_code\everstudybee\AnyLanguageApp\src\img" />
       <recent name="D:\Qsync\_code\everstudybee\AnyLanguageApp" />
     </key>
   </component>
@@ -127,7 +111,7 @@
       <workItem from="1600269793348" duration="10399000" />
       <workItem from="1600375123287" duration="2325000" />
       <workItem from="1601842119811" duration="757000" />
-      <workItem from="1601842895298" duration="29147000" />
+      <workItem from="1601842895298" duration="42918000" />
     </task>
     <servers />
   </component>
@@ -148,6 +132,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <option name="LAST_COMMIT_MESSAGE" value="" />
   </component>
   <component name="WindowStateProjectService">
     <state x="586" y="203" key="#Inspections" timestamp="1601842986440">
@@ -162,10 +147,14 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="740" y="266" key="FileChooserDialogImpl/0.0.1920.1050/-1920.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1601914437045" />
-    <state x="461" y="169" key="SettingsEditor" timestamp="1601976390961">
+    <state x="461" y="169" key="SettingsEditor" timestamp="1601988600420">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="461" y="169" key="SettingsEditor/0.0.1920.1050/-1920.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1601976390961" />
+    <state x="461" y="169" key="SettingsEditor/0.0.1920.1050/-1920.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1601988600420" />
+    <state x="552" y="257" key="Vcs.Push.Dialog.v2" timestamp="1601978061625">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="552" y="257" key="Vcs.Push.Dialog.v2/0.0.1920.1050/-1920.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1601978061625" />
     <state x="623" y="227" width="672" height="678" key="search.everywhere.popup" timestamp="1601973498779">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>

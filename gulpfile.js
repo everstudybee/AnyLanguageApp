@@ -22,13 +22,13 @@ const notifier = require('gulp-notifier'); // {errorHandler: notifier.error} int
 // All paths object
 const paths = {
     css: {
-        // src: './src/sass/**/*.scss',
         src: './src/modules/main.scss',
+        srcWatch: './src/modules/**/*.scss',
         dest: './dist/css',
     },
     html: {
-        // src: './src/kit/**/*.kit',
         src: './src/modules/index.kit',
+        srcWatch: './src/modules/**/*.kit',
         dest: './dist',
     },
     js: {
@@ -152,8 +152,8 @@ function reloadServer(done) {
 
 // Watch all changes
 function watchAll(done) {
-    watch(paths.css.src, {events: 'all', ignoreInitial: false}, series(css, reloadServer));
-    watch(paths.html.src, {events: 'all', ignoreInitial: false}, series(html, reloadServer));
+    watch(paths.css.srcWatch, {events: 'all', ignoreInitial: false}, series(css, reloadServer));
+    watch(paths.html.srcWatch, {events: 'all', ignoreInitial: false}, series(html, reloadServer));
     watch(paths.js.src, {events: 'all', ignoreInitial: false}, series(js, reloadServer));
     watch(paths.img.src, {events: 'all', ignoreInitial: false}, series(img, reloadServer));
     done();

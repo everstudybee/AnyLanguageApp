@@ -5,7 +5,7 @@
     grid-template-areas:
         "header header header"
         "nav-top nav-top nav-top"
-        "nav-left main aside"
+        "nav-left main-content aside"
         "footer footer footer";
 }
 
@@ -14,9 +14,9 @@
     font-size: 1.875rem;
     font-weight: 800;
     text-align: center;
-    background: #dfeffd;
-    border: 3px solid #457fdc;
-    color: #457fdc;
+    background: $main-color-light;
+    border: 3px solid $main-color-dark;
+    color: $main-color-dark;
 }
 
 header,

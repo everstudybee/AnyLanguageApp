@@ -1,0 +1,13 @@
+.aside {
+  grid-area: aside;
+  
+  &__title{
+    position: sticky;
+    top: 130px;
+    background-color: #1EAAFC;
+  }
+}
+
+.aside__title{
+  top: 120px;
+}

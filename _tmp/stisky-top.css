@@ -1,0 +1,31 @@
+body {
+    margin: 0;
+}
+
+.page {
+    display: grid;
+    grid-template-columns: 20vh auto;
+    grid-template-rows: 55px calc(100vh - 55px);  /* height limitation on second row */
+    grid-template-areas: "nav header"
+                       "nav content";
+}
+
+.nav {
+    grid-area: nav;
+    background-color: aqua;
+}
+
+.header {
+    grid-area: header;
+    background-color: lightgrey;
+}
+
+.content {
+    grid-area: content;
+    background-color: red;
+    overflow: auto;                          /* overflow condition on parent */
+}
+
+article {
+    height: 1000px;                          /* height set on child; triggers scroll */
+}

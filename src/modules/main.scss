@@ -1,10 +1,14 @@
-@import "10-body/reset";
-@import "10-body/body";
+// reset all browsers styles
+@import "10-shared/reset";
+
+// styles for pages
+@import "10-shared/variables";
+@import "10-shared/global";
 @import "20-template/template";
 @import "30-header/header";
 @import "40-nav-top/nav-top";
 @import "50-nav-left/nav-left";
-@import "60-main/main";
+@import "60-main-content/main-content";
 @import "70-aside/aside";
 @import "80-footer/footer";
 
